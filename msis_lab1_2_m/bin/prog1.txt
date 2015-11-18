@@ -1,0 +1,16 @@
+program primer1; //мама 
+var s1,s2:string;
+    i:integer;   
+	{ str:string;}
+	season: (summer, autumn, winter, spring);
+
+const count=455;
+
+var a:integer (*jhg*);
+
+begin
+	writeln(a);
+{
+jhgfghj}
+	writeln;
+end;

@@ -1,0 +1,13 @@
+E:\BSUIR\sem_3\МСиСвИнфТ\msis_lab1_2_m\msis_lab1_2_m\bin\Debug\msis_lab1_2_m.exe.config
+E:\BSUIR\sem_3\МСиСвИнфТ\msis_lab1_2_m\msis_lab1_2_m\bin\Debug\msis_lab1_2_m.exe
+E:\BSUIR\sem_3\МСиСвИнфТ\msis_lab1_2_m\msis_lab1_2_m\bin\Debug\msis_lab1_2_m.pdb
+E:\BSUIR\sem_3\МСиСвИнфТ\msis_lab1_2_m\msis_lab1_2_m\obj\Debug\msis_lab1_2_m.csprojResolveAssemblyReference.cache
+E:\BSUIR\sem_3\МСиСвИнфТ\msis_lab1_2_m\msis_lab1_2_m\obj\Debug\msis_lab1_2_m.exe
+E:\BSUIR\sem_3\МСиСвИнфТ\msis_lab1_2_m\msis_lab1_2_m\obj\Debug\msis_lab1_2_m.pdb
+E:\BSUIR\sem_3\МСиСвИнфТ\msis_lab1_2_m\msis_lab1_2_m\bin\Debug\msis_lab1_2_m.exe.manifest
+E:\BSUIR\sem_3\МСиСвИнфТ\msis_lab1_2_m\msis_lab1_2_m\bin\Debug\msis_lab1_2_m.application
+E:\BSUIR\sem_3\МСиСвИнфТ\msis_lab1_2_m\msis_lab1_2_m\obj\Debug\msis_lab1_2_m.exe.manifest
+E:\BSUIR\sem_3\МСиСвИнфТ\msis_lab1_2_m\msis_lab1_2_m\obj\Debug\msis_lab1_2_m.application
+E:\BSUIR\sem_3\МСиСвИнфТ\msis_lab1_Chepin\msis_lab1_2_m\bin\Debug\msis_lab1_2_m.exe.config
+E:\BSUIR\sem_3\МСиСвИнфТ\msis_lab1_Chepin\msis_lab1_2_m\obj\Debug\msis_lab1_2_m.exe
+E:\BSUIR\sem_3\МСиСвИнфТ\msis_lab1_Chepin\msis_lab1_2_m\obj\Debug\msis_lab1_2_m.pdb
